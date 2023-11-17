@@ -24,4 +24,4 @@ Clonez le dépôt et installez les dépendances requises.
 ```bash
 git clone [URL du dépôt]
 cd [Nom du dossier]
-pip install -r requirements.txt
+pip install [requirement]
